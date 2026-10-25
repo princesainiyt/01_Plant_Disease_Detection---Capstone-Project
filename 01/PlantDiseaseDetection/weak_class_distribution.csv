@@ -1,0 +1,6 @@
+class_name,Training images,Validation images,Train/Validation ratio
+Apple___Cedar_apple_rust,220,28,7.857142857142857
+Corn___Cercospora_leaf_spot Gray_leaf_spot,410,52,7.884615384615385
+Tomato___Early_blight,800,100,8.0
+Tomato___Septoria_leaf_spot,1417,177,8.005649717514125
+Tomato___Target_Spot,1123,140,8.021428571428572
